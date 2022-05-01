@@ -1,0 +1,45 @@
+.bg-grey{
+    background-color: grey;
+}
+.bg-hombre{
+    background-color: aliceblue;
+}
+
+.bg-mujer{
+    background-color: lavenderblush;
+}
+
+.w-\[400px\]{
+    width: 400px;
+}
+
+.w-\[32px\]{
+    width: 32px;
+}
+
+.h-\[32px\]{
+    height: 32px;
+}
+
+.h-\[145px\]{
+    height: 145px;
+}
+
+.text-\[16px\]{
+    font-size: 16px;
+}
+
+.text-\[20px\]{
+    font-size: 20px;
+}
+
+.mh-\[70vh\]{
+    min-height: 70vh;
+}
+.w-max-content{
+    width: max-content;
+}
+
+.gap-\[8px\]{
+    gap: 8px;
+}
